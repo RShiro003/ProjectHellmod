@@ -12,9 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/CoiceScene.unity
     guid: be6aaff6d719c204b8e204a8740db06a
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
-    guid: bc708c01aa461734dbe5e90d160f3696
-  - enabled: 1
     path: Assets/Scenes/GameScene.unity
     guid: d605008f135f2d7448cf608d7b9a5ba3
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: bc708c01aa461734dbe5e90d160f3696
   m_configObjects: {}
